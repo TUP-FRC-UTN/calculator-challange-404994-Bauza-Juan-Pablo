@@ -1,0 +1,40 @@
+button {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80%;
+    width: 100%;
+    height: 200%;
+    cursor: pointer;
+    display: inline-block;
+    padding: 1;
+}
+
+button:hover {
+    outline: none;
+    box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.5);
+}
+
+#btnSuma {
+    background-image: url('https://img.icons8.com/?size=100&id=37784&format=png&color=000000');
+}
+
+#btnResta {
+    background-image: url('https://img.icons8.com/?size=100&id=37783&format=png&color=000000');
+}
+
+#btnExponencial {
+    background-image: url('https://img.icons8.com/?size=100&id=4g82zZOOItai&format=png&color=000000');
+}
+
+#btnMultiplicar {
+    background-image: url('https://img.icons8.com/?size=100&id=9433&format=png&color=000000');
+}
+
+#btnDividir {
+    background-image: url('https://img.icons8.com/?size=100&id=9494&format=png&color=000000');
+}
+
+#btnCero {
+    background-image: url('https://img.icons8.com/?size=100&id=qo7esl2zl10N&format=png&color=000000');
+}
